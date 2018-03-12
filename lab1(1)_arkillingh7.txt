@@ -1,0 +1,3 @@
+printf("Asta-i real sau ii na?bka");
+
+_arkillingh7
